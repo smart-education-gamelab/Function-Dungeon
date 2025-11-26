@@ -45,7 +45,7 @@ Game Development by Kevin Hooijschuur & Erwin van Crasbeek.
 Math Content and Question Design by Sonia Palha & Daan van Smaalen.
 Game Design by Kevin Hooijschuur, Sonia Palha, Anders Bouwer, Daan van Smaalen & Erwin van Crasbeek.
 Music composed, performed and produced by Anders Bouwer.
-Developed in the context of the European Erasmus+ project GAMMA (GAMe-based Learning in MAthematics). Project website: http://www.project-gamma.eu/
+Developed in the context of the European Erasmus+ projects [GAMMA](http://www.project-gamma.eu/) (GAMe-based Learning in MAthematics) & [TransEET](https://transeet.eu/) (Transforming Education with Emerging Technologies). 
 
 * Dutch Translations by Daan van Smaalen, Sonia Palha and Anders Bouwer.
 * Greek Translations by National and Kapodistrian University of Athens, School of Philosophy, Department of Educational Studies, Greece.
